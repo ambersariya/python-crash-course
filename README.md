@@ -4,7 +4,7 @@
 
 Please make sure the following things are in place:
 
-- Python installed 3.8+
+- Python 3.8+ installed
 - Fork/Download this repository
 - Favourite code editor (VsCode/IntelliJ/Pycharm) installed
 

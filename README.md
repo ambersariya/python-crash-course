@@ -2,6 +2,7 @@
 
 ## Day 1
 - [ ] Intro
+- [ ] Setup
 - [ ] Basic Syntax
 - [ ] Control Flow
 - [ ] OOP concepts
@@ -13,3 +14,11 @@
 - [ ] Convert Kata to API
   - [ ] Using a webframework e.g. FastAPI
   - [ ] Running API in docker
+
+
+### Setup
+
+Please make sure the following things are in place:
+
+- Python installed 3.8+
+- Fork/Download this repository

@@ -1,5 +1,14 @@
 # Python Crash Course 💥🏎️
 
+### Setup
+
+Please make sure the following things are in place:
+
+- Python installed 3.8+
+- Fork/Download this repository
+- Favourite code editor (VsCode/IntelliJ/Pycharm) installed
+
+
 ## Day 1
 - [ ] Intro
 - [ ] Setup
@@ -16,9 +25,3 @@
   - [ ] Running API in docker
 
 
-### Setup
-
-Please make sure the following things are in place:
-
-- Python installed 3.8+
-- Fork/Download this repository

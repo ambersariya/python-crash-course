@@ -17,7 +17,7 @@ Please make sure the following things are in place:
 - [ ] OOP concepts
 
 ## Day 2
-- [ ] Kata
+- [ ] Solving a Kata (in groups of 3+)
 
 ## Day 3
 - [ ] Convert Kata to API

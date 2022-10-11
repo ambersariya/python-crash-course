@@ -1,6 +1,6 @@
 # Python Crash Course 🧱💥🏎️
 
-### Setup
+## Setup
 
 Please make sure the following things are in place:
 
@@ -8,8 +8,8 @@ Please make sure the following things are in place:
 - Fork/Download this repository
 - Favourite code editor (VsCode/IntelliJ/Pycharm) installed
 
-
 ## Day 1
+
 - [ ] Intro
 - [ ] Setup
 - [ ] Basic Syntax
@@ -17,9 +17,11 @@ Please make sure the following things are in place:
 - [ ] OOP concepts
 
 ## Day 2
+
 - [ ] Solving a Kata (in groups of 3+)
 
 ## Day 3
+
 - [ ] Convert Kata to API
   - [ ] Using a webframework e.g. FastAPI
   - [ ] Running API in docker

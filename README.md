@@ -8,7 +8,9 @@ Please make sure the following things are in place:
 - Fork/Download this repository
 - Favourite code editor (VsCode/IntelliJ/Pycharm) installed
 
-## Day 1
+## Agenda
+
+### Day 1
 
 - [ ] Intro
 - [ ] Setup
@@ -16,11 +18,11 @@ Please make sure the following things are in place:
 - [ ] Control Flow
 - [ ] OOP concepts
 
-## Day 2
+### Day 2
 
 - [ ] Solving a Kata (in groups of 3+)
 
-## Day 3
+### Day 3
 
 - [ ] Convert Kata to API
   - [ ] Using a webframework e.g. FastAPI

@@ -6,14 +6,18 @@ Please make sure the following things are in place:
 
 - Python 3.8+ installed
 - Fork/Download this repository
-- Favourite code editor (VsCode/IntelliJ/Pycharm) installed
+- Favourite code editor installed
 
 ## Agenda
 
+Welcome to the crash course.
+
+- [ ] Intro Roundtable
+- [ ] Setup
+
 ### Day 1
 
-- [ ] Intro
-- [ ] Setup
+- [ ] Getting Started
 - [ ] Basic Syntax
 - [ ] Control Flow
 - [ ] OOP concepts
@@ -27,5 +31,3 @@ Please make sure the following things are in place:
 - [ ] Convert Kata to API
   - [ ] Using a webframework e.g. FastAPI
   - [ ] Running API in docker
-
-
